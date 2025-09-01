@@ -24,7 +24,8 @@ Performed EDA and took out important insights from the data using Univariate,Biv
 
 # Insights from the Data<br>
 
-**Payment Mode**<br>
+## Payment Mode <br>
+
 **COD & E-wallet** users → **Highest** churn (trust & delivery concerns). <br>
 **Debit/Credit** cards → **Lower** churn (more reliable segment). <br>
 **Interpretation:** <br>
@@ -36,7 +37,8 @@ Encourage a shift toward card-based payments through targeted incentives (e.g., 
 
 
 
-**Device Usage** <br>
+## Device Usage <br>
+
 **Computer users** → More churn than phone users. <br>
 **More registered devices** → **Higher** churn risk. <br>
 **Interpretation:** <br>
@@ -45,7 +47,8 @@ Customers who primarily use computers to access the platform exhibit a higher ch
 Enhance the desktop experience with interactive elements, personalized recommendations, or streamlined navigation <br>
 Encourage a shift to mobile by promoting app-exclusive features, smoother UX, or targeted onboarding campaigns <br>
 
-**Tenure & Loyalty**<br>
+## Tenure & Loyalty <br>
+
 **0–6 months** → 32% churn (highest risk).<br>
 **1 year** → 10% <br>
 **2 years** → 6% <br>
@@ -55,7 +58,8 @@ The churn rate decresses with increased tenure range. <br>
 **Buisness Implication**<br>
 Retention improves significantly with tenure → focus on onboarding. <br>
 
-**Order Behavior**<br>
+## Order Behavior <br>
+
 **Short reorder cycle** → Higher retention. <br>
 **Long gaps between orders** → Increased churn risk. <br>
 **Higher order amount hike** → Lower churn (customers willing to spend more stay longer). <br>
@@ -67,7 +71,8 @@ Reward high spenders with loyalty perks or exclusive offers to reinforce retenti
 Monitor order cycles to predict churn early and intervene with tailored messaging <br>
 
       
-**City Tier**<br>
+## City Tier <br>
+
 **Churn rises** from **Tier-1 → Tier-3** cities <br>
 **Interpretation:** <br>
 Indicates weaker brand trust & service issues in smaller cities. <br>
@@ -77,7 +82,8 @@ Improve service reliability and delivery speed in smaller cities <br>
 Offer region-specific incentives or onboarding support to build trust and reduce churn <br>
 
        
-**Product Category** <br>
+## Product Category <br>
+
 **Grocery**→ Lowest churn (5%) <br>
 **Electronics/High-value** items → Higher churn. <br>
 **Interpretation:** <br>
@@ -88,7 +94,8 @@ For electronics, focus on customer assurance—clear return policies, reliable d
 
 
 
-**Satisfaction & Support** <br>
+## Satisfaction & Support <br>
+
 **Churn increases** with **Satisfaction Score**  (possible gap between survey vs. actual experience). <br>
 **Interpretation:** <br>
 Customers give high ratings during surveys but still churn due to unresolved issues, inconsistent support, or post-survey dissatisfaction<br>
@@ -98,7 +105,7 @@ Cross-check satisfaction scores with support ticket resolution, response time, a
 Introduce experience audits or follow-up interviews to uncover hidden pain points. <br>
 
 
-# Final Insight**: <br> 
+# Final Insight: <br> 
 **Smaller cities (Tier-2/3)** face delivery and support challenges → **weaker brand trust** <br>
 **High-value products carry higher expectations** → **churn spikes when service falters** <br>
 **COD & E-wallet users show less commitment** → churn linked to **payment friction and trust** <br>
