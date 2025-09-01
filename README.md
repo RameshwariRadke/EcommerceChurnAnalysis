@@ -1,5 +1,8 @@
 # EcommerceChurnAnalysis
 
+
+<img width="1024" height="366" alt="churn" src="https://github.com/user-attachments/assets/5c78266b-77ca-4391-8d8b-804477b1fac3" />
+
 # Objective:
 The objective of this project is to analyze the customer behavior and identify patterns that lead to churn in an ecommerce setting. The goal is to uncover actionable insights that help improve retention, personalize engagement, and reduce attrition.
 
